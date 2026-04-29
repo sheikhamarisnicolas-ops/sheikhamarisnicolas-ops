@@ -11,7 +11,7 @@ I am a **3rd-year Bachelor of Science in Information Systems** student at **West
 
 Choosing to major in **Business Analytics** was a turning point for me. It transformed how I see the world—even the simplest childhood memory of buying a toy or a storybook now reveals a deeper layer of sales data, revenue trends, and market demand. To me, analytics isn't just about numbers; it’s the heartbeat of how the world runs. 
 
-I find joy in the "aha!" moments of data discovery and believe that being an analyst is a powerful way to contribute to the efficiency and success of the global community.
+I find joy in the "abaw!" moments of data discovery and believe that being an analyst is a powerful way to contribute to the efficiency and success of the global community.
 
 ---
 
