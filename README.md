@@ -1,28 +1,32 @@
-# <p align="center">✨ Hi, I'm Maris! ✨</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=BSIS+Student;Future+Data+Analyst;Problem+Solver;Business+Insights+Enthusiast" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,FFB6C1,FF1493&height=200&section=header&text=Hi%2C%20I'm%20Maris!%20✨&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20in%20the%20Making%20🌸&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheikhamarisnicolas-ops&theme=dracula&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=BSIS+Student+%40+WVSU;Future+Data+Analyst;Business+Analytics+Major;GIS+%2B+Data+Enthusiast;CRISP-DM+Pipeline+Navigator)](https://git.io/typing-svg)
+
+<img src="https://github-profile-trophy.vercel.app/?username=sheikhamarisnicolas-ops&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=-C,-B" />
+
+</div>
 
 ---
 
-## 🌸 About Me
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="data animation"/>
 
-I am a **3rd-year Bachelor of Science in Information Systems** student at **West Visayas State University**. 
+### 🌸 About Me
 
-Choosing to major in **Business Analytics** was a turning point for me. It transformed how I see the world—even the simplest childhood memory of buying a toy or a storybook now reveals a deeper layer of sales data, revenue trends, and market demand. To me, analytics isn't just about numbers; it’s the heartbeat of how the world runs. 
+I am a **3rd-year Bachelor of Science in Information Systems** student at **West Visayas State University**, majoring in **Business Analytics**.
+
+Choosing analytics was a turning point for me — it transformed how I see the world. Even the simplest childhood memory of buying a toy or a storybook now reveals a deeper layer of **sales data, revenue trends, and market demand**. To me, analytics isn't just about numbers; it's the heartbeat of how the world runs.
 
 I find joy in the *"abaw!"* moments of data discovery and believe that being an analyst is a powerful way to contribute to the efficiency and success of the global community.
 
+<br clear="right"/>
+
 ---
 
-## 🧰 The Analytics Toolkit
+### 🧰 The Analytics Toolkit
 
-Here is the tech stack and toolkit I use to navigate the CRISP-DM pipeline and build decision-support tools:
+> *Navigating the CRISP-DM pipeline and building decision-support tools*
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -33,32 +37,70 @@ Here is the tech stack and toolkit I use to navigate the CRISP-DM pipeline and b
 
 ---
 
-## 📈 Current Focus
+### 📈 Current Focus
 
-* 🔍 **Deep Diving:** Statistical Modeling and Data Cleaning methodologies.
-* 🗺️ **Spatial Insights:** Integrating GIS capabilities with core business data.
-* 🛠️ **Systems Design:** Developing lifecycle management systems that make data work for people.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhamarisnicolas-ops&show_icons=true&theme=rose&title_color=FF69B4&icon_color=FF69B4&text_color=708090&bg_color=ffffff&hide_border=true" width="48%" alt="Maris's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhamarisnicolas-ops&layout=compact&theme=rose&title_color=FF69B4&icon_color=FF69B4&text_color=708090&bg_color=ffffff&hide_border=true" width="48%" alt="Maris's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhamarisnicolas-ops&theme=rose&fire=FF69B4&ring=FF69B4&currStreakNum=FF69B4" alt="GitHub Streak" />
-</p>
+```python
+maris = {
+    "focus"    : ["Statistical Modeling", "Data Cleaning"],
+    "exploring": ["GIS + Business Data Integration", "Spatial Insights"],
+    "building" : ["Lifecycle Management Systems"],
+    "goal"     : "Transform raw data into meaningful business decisions 🌸"
+}
+```
 
 ---
 
-## 💞 Let's Connect!
+### 📊 GitHub Analytics
 
-I am always open to discussing data, system ethics, or potential collaborations.
+<div align="center">
 
-* **Email:** [sheikhamarisnicolas@gmail.com](mailto:sheikhamarisnicolas@gmail.com)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheikhamarisnicolas-ops&show_icons=true&theme=rose&title_color=FF69B4&icon_color=FF69B4&text_color=708090&bg_color=ffffff&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhamarisnicolas-ops&layout=compact&theme=rose&title_color=FF69B4&icon_color=FF69B4&text_color=708090&bg_color=ffffff&hide_border=true"/>
 
+</div>
 
+<div align="center">
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheikhamarisnicolas-ops&theme=rose&fire=FF69B4&ring=FF69B4&currStreakNum=FF69B4&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikhamarisnicolas-ops&theme=github&color=FF69B4&line=FF69B4&point=FF1493&area=true&hide_border=true&bg_color=ffffff)
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<div align="center">
+
+[![SDG Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=sheikhamarisnicolas-ops&repo=Nicolas_SDG_FinalProject_Dashboard&theme=rose&title_color=FF69B4&icon_color=FF69B4&text_color=708090&bg_color=ffffff&hide_border=true)](https://github.com/sheikhamarisnicolas-ops/Nicolas_SDG_FinalProject_Dashboard)
+[![Walmart Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=sheikhamarisnicolas-ops&repo=Nicolas-Montes-Patopaten--Dashboard&theme=rose&title_color=FF69B4&icon_color=FF69B4&text_color=708090&bg_color=ffffff&hide_border=true)](https://github.com/sheikhamarisnicolas-ops/Nicolas-Montes-Patopaten--Dashboard)
+
+</div>
+
+---
+
+### 💞 Let's Connect!
+
+<div align="center">
+
+*I am always open to discussing data, system ethics, or potential collaborations.*
+
+[![Gmail](https://img.shields.io/badge/Gmail-sheikhamarisnicolas%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhamarisnicolas@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sheikhamarisnicolas--ops-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheikhamarisnicolas-ops)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sheikhamarisnicolas-ops&color=FF69B4&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,FFB6C1,FF1493&height=120&section=footer" width="100%"/>
+
+</div>
