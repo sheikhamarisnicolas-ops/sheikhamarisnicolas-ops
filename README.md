@@ -29,18 +29,6 @@ I find joy in the *"abaw!"* moments of data discovery and believe that being an 
 | **Visualization & Geo-Spatial** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) |
 | **The Workshop** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 
----
-
-### 📈 Current Focus
-
-```python
-maris = {
-    "focus"    : ["Statistical Modeling", "Data Cleaning"],
-    "exploring": ["GIS + Business Data Integration", "Spatial Insights"],
-    "building" : ["Lifecycle Management Systems"],
-    "goal"     : "Transform raw data into meaningful business decisions 🌸"
-}
-```
 
 ---
 
