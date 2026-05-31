@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,FFB6C1,FF1493&height=200&section=header&text=Hi%2C%20I'm%20Maris!%20✨&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20in%20the%20Making%20🌸&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=Hi%2C+I%27m+Maris!+%E2%9C%A8&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Data+Analyst+in+the+Making+%F0%9F%8C%B8&descAlignY=58&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=BSIS+Student+%40+WVSU;Future+Data+Analyst;Business+Analytics+Major;GIS+%2B+Data+Enthusiast;CRISP-DM+Pipeline+Navigator)](https://git.io/typing-svg)
-
-<img src="https://github-profile-trophy.vercel.app/?username=sheikhamarisnicolas-ops&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=-C,-B" />
 
 </div>
 
 ---
-
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="data animation"/>
 
 ### 🌸 About Me
 
@@ -19,8 +15,6 @@ I am a **3rd-year Bachelor of Science in Information Systems** student at **West
 Choosing analytics was a turning point for me — it transformed how I see the world. Even the simplest childhood memory of buying a toy or a storybook now reveals a deeper layer of **sales data, revenue trends, and market demand**. To me, analytics isn't just about numbers; it's the heartbeat of how the world runs.
 
 I find joy in the *"abaw!"* moments of data discovery and believe that being an analyst is a powerful way to contribute to the efficiency and success of the global community.
-
-<br clear="right"/>
 
 ---
 
@@ -61,7 +55,7 @@ maris = {
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheikhamarisnicolas-ops&theme=rose&fire=FF69B4&ring=FF69B4&currStreakNum=FF69B4&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sheikhamarisnicolas-ops&theme=rose&fire=FF69B4&ring=FF69B4&currStreakNum=FF69B4&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -101,6 +95,6 @@ maris = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sheikhamarisnicolas-ops&color=FF69B4&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,FFB6C1,FF1493&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" width="100%"/>
 
 </div>
