@@ -46,14 +46,6 @@ maris = {
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheikhamarisnicolas-ops&show_icons=true&theme=rose&title_color=FF69B4&icon_color=FF69B4&text_color=708090&bg_color=ffffff&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhamarisnicolas-ops&layout=compact&theme=rose&title_color=FF69B4&icon_color=FF69B4&text_color=708090&bg_color=ffffff&hide_border=true"/>
-
-</div>
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sheikhamarisnicolas-ops&theme=rose&fire=FF69B4&ring=FF69B4&currStreakNum=FF69B4&hide_border=true)](https://git.io/streak-stats)
 
@@ -67,16 +59,6 @@ maris = {
 
 ---
 
-### 🌟 Featured Projects
-
-<div align="center">
-
-[![SDG Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=sheikhamarisnicolas-ops&repo=Nicolas_SDG_FinalProject_Dashboard&theme=rose&title_color=FF69B4&icon_color=FF69B4&text_color=708090&bg_color=ffffff&hide_border=true)](https://github.com/sheikhamarisnicolas-ops/Nicolas_SDG_FinalProject_Dashboard)
-[![Walmart Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=sheikhamarisnicolas-ops&repo=Nicolas-Montes-Patopaten--Dashboard&theme=rose&title_color=FF69B4&icon_color=FF69B4&text_color=708090&bg_color=ffffff&hide_border=true)](https://github.com/sheikhamarisnicolas-ops/Nicolas-Montes-Patopaten--Dashboard)
-
-</div>
-
----
 
 ### 💞 Let's Connect!
 
