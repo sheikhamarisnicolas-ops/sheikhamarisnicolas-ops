@@ -10,7 +10,7 @@
 
 ### 🌸 About Me
 
-I am a **3rd-year Bachelor of Science in Information Systems** student at **West Visayas State University**, majoring in **Business Analytics**.
+I am a **Bachelor of Science in Information Systems** student at **West Visayas State University**, majoring in **Business Analytics**.
 
 Choosing analytics was a turning point for me — it transformed how I see the world. Even the simplest childhood memory of buying a toy or a storybook now reveals a deeper layer of **sales data, revenue trends, and market demand**. To me, analytics isn't just about numbers; it's the heartbeat of how the world runs.
 
